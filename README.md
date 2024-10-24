@@ -1,6 +1,4 @@
-# README
-
-## Project: The Influence of Metaverse Environment Design on the Quality of Experience in Virtual Reality Classes: A Comparative Study
+## Raw Data for Research: The Influence of Metaverse Environment Design on the Quality of Experience in Virtual Reality Classes: A Comparative Study
 
 This repository contains anonymized raw data used for the research titled *"The Influence of Metaverse Environment Design on the Quality of Experience in Virtual Reality Classes: A Comparative Study,"* available in the journal **Frontiers in Education**.
 
